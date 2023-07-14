@@ -3,7 +3,9 @@
  * main - printing function
  * return always (0)
  *
+ *
  */
+
 int main(void)
 {
  
