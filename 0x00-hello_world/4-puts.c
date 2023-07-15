@@ -7,8 +7,11 @@
 
 int main(void)
 {
+	/**
+	 * puts function for printing
+	 * Return: (0) success
+	 */
 
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("Programming is like building a multilingual puzzle\n");
 	return (0);
-
 }
