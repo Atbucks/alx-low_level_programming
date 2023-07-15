@@ -6,6 +6,12 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
+	/*
+	 * detrimne where the numbr is positive
+	 * negative
+	 * or zero
+	 */
+
 	int n;
 
 	srand(time(0));
