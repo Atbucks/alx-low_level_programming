@@ -3,8 +3,8 @@
 #include <time.h>
 
 /*
- *main : Detrmine whether the number is.
- *positive or negative or zero
+ *main . Detrmine whether the number is positive or negative.
+ *Description : else  if , if statments
  *
  *Return (0): always success
  */
