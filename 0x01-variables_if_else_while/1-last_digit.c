@@ -3,12 +3,13 @@
 #include <stdio.h>
 
 /**
- * main - the last digit program
- *
- * Description : using if else if else statments to make decisions
- * Return 0 : always (succes)
- *
- * */
+  * main - the last digit program
+  *
+  * Description: using if else if else statments to make decisions
+  * Return: always 0(succes)
+  *
+  **/
+
 int main(void)
 {
 	int n;
@@ -17,7 +18,7 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	ld = n % 10;
-	if(ld > 5)
+	if (ld > 5)
 	{
 		printf("Last digit of %d is %d and is greater than 5", n, ld);
 	}

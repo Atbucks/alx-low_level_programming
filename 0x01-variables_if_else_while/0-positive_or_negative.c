@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
- *main . Detrmine whether the number is positive or negative.
- *Description : else  if , if statments
- *
- *Return (0): always success
- */
+/**
+  *main - Detrmine whether the number is positive or negative.
+  *Description: Show whether its +ve or -ve using else if , if statments
+  *
+  *Return: Always 0
+  */
 int main(void)
 {
 	int n;
