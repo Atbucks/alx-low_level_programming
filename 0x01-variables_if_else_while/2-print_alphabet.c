@@ -1,9 +1,9 @@
 #include<stdio.h>
 /**
- * main - print alphabet in lowercase
- * Description 'print lower case useing while'
- * Return : Always 0
- */
+  * main - Print alphabet in lowercase
+  * Description: 'print lower case useing while'
+  * Return: Always 0
+  */
 int main(void)
 {
 	int n = 97;
